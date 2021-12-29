@@ -1,0 +1,2 @@
+# MyNotepad
+Qt MyNotepad
